@@ -1,0 +1,24 @@
+#ifndef UP_DOWN_TO_VERTI_H
+#define UP_DOWN_TO_VERTI_H
+#include <string>
+#include <iostream>
+using namespace std;
+class up_down_to_verti
+{
+    public:
+        up_down_to_verti();
+        virtual ~up_down_to_verti();
+        up_down_to_verti(const up_down_to_verti& other);
+        up_down_to_verti& operator=(const up_down_to_verti& other);
+        struct to_vert{
+            
+        
+        };
+        string vert_nmb(string hor,int rowsx,int ssnumbers);
+
+    protected:
+
+    private:
+};
+
+#endif // UP_DOWN_TO_VERTI_H
