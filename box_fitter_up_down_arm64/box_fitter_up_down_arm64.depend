@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1763560950 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/main.cpp
+	<iostream>
+	"math.h"
+	<iomanip>
+	"up_down.h"
+	"gen_to_dashes.h"
+	"up_down_to_verti.h"
+	<vector>
+	<thread>
+	"rever_table.h"
+	"virttual.h"
+	"sum_cdi.h"
+
+1763388575 /home/acherontas/codeblocks/box_fitter_up_down_arm64/up_down.h
+	<iostream>
+	<iomanip>
+	"math.h"
+	<string>
+
+1763455264 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/up_down.cpp
+	"up_down.h"
+
+1763559468 /home/acherontas/codeblocks/box_fitter_up_down_arm64/gen_to_dashes.h
+	<iostream>
+	<iomanip>
+	"math.h"
+	<string>
+
+1763560229 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/gen_to_dashes.cpp
+	"gen_to_dashes.h"
+
+1763457855 /home/acherontas/codeblocks/box_fitter_up_down_arm64/up_down_to_verti.h
+	<string>
+	<iostream>
+
+1763459345 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/up_down_to_verti.cpp
+	"up_down_to_verti.h"
+
+1763560555 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/rever_table.cpp
+	"rever_table.h"
+	"virttual.h"
+	"gen_to_dashes.h"
+	"sum_cdi.h"
+	<thread>
+
+1763558976 /home/acherontas/codeblocks/box_fitter_up_down_arm64/rever_table.h
+	<iostream>
+	<string>
+
+1763551646 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/virttula.cpp
+	"virttula.h"
+
+1763551705 /home/acherontas/codeblocks/box_fitter_up_down_arm64/virttula.h
+	<iostream>
+	<string>
+
+1763552845 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/virttual.cpp
+	"virttual.h"
+
+1763553085 /home/acherontas/codeblocks/box_fitter_up_down_arm64/virttual.h
+	<string>
+
+1758893193 /home/acherontas/codeblocks/box_fitter_up_down_arm64/sum_cdi.h
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+
+1760455965 source:/home/acherontas/codeblocks/box_fitter_up_down_arm64/sum_cdi.cpp
+	"sum_cdi.h"
+
