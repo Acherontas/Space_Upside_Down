@@ -1,0 +1,114 @@
+enter number,rows,logger 0 or 1, and timer value
+enter number
+--sending ur number to generator each line in a number represantion 
+----- the iko table 
+0 11000000
+1 11111110
+2 11111111
+3 11111000
+4 21111111
+5 11000000
+6 11111100
+----- the iko table end 
+
+--generate the dashes for each row which is a line 
+N      Row 
+2 ::== 11000000  |   |   /  /  /  /  /  / per line isia 2 per line plagia 6
+
+7 ::== 11111110  |   |   |   |   |   |   |   / per line isia 7 per line plagia 1
+
+8 ::== 11111111  |   |   |   |   |   |   |   |  per line isia 8 per line plagia 0
+
+5 ::== 11111000  |   |   |   |   |   /  /  / per line isia 5 per line plagia 3
+
+9 ::== 21111111  ||   |   |   |   |   |   |   |  per line isia 9 per line plagia 0
+
+2 ::== 11000000  |   |   /  /  /  /  /  / per line isia 2 per line plagia 6
+
+6 ::== 11111100  |   |   |   |   |   |   /  / per line isia 6 per line plagia 2
+
+count isia 39
+count plagia 18
+Result set 
+isia number 2785926
+
+Initial sum = 39
+
+---------Internal Sum -----------
+|---> 12
+|---> 3
+|---> Exiting with 3
+--------End of Sum------------
+
+plagia number 6103062
+
+Initial sum = 18
+
+---------Internal Sum -----------
+|---> 9
+|---> Exiting with 9
+--------End of Sum------------
+
+
+reversing the table to match the other similar projects
+
+1 1 1 1 2 1 1 
+1 1 1 1 1 1 1 
+0 1 1 1 1 0 1 
+0 1 1 1 1 0 1 
+0 1 1 1 1 0 1 
+0 1 1 0 1 0 1 
+0 1 1 0 1 0 0 
+0 0 1 0 1 0 0 
+exiting with counter of  8
+1111211 i send u 1111211
+ |   |   |   |   ||   |   |  per line isia 8 per line plagia 0
+
+1111111 i send u 1111111
+ |   |   |   |   |   |   |  per line isia 7 per line plagia 0
+
+0111101 i send u 0111101
+ /  |   |   |   |   /  |  per line isia 5 per line plagia 2
+
+0111101 i send u 0111101
+ /  |   |   |   |   /  |  per line isia 5 per line plagia 2
+
+0111101 i send u 0111101
+ /  |   |   |   |   /  |  per line isia 5 per line plagia 2
+
+0110101 i send u 0110101
+ /  |   |   /  |   /  |  per line isia 4 per line plagia 3
+
+0110100 i send u 0110100
+ /  |   |   /  |   /  / per line isia 3 per line plagia 4
+
+0010100 i send u 0010100
+ /  /  |   /  |   /  / per line isia 2 per line plagia 5
+
+
+count isia 39
+count plagia 18
+Result set 
+isia number 87555432
+
+Initial sum = 39
+
+---------Internal Sum -----------
+|---> 12
+|---> 3
+|---> Exiting with 3
+--------End of Sum------------
+
+plagia number 00222345
+
+Initial sum = 18
+
+---------Internal Sum -----------
+|---> 9
+|---> Exiting with 9
+--------End of Sum------------
+
+
+
+
+--------------------------------------
